@@ -11,9 +11,9 @@
  Projeto feito para aprimorar meus conhecimentos, esse layout foi fatiado e convertido para o padrão mvc do laravel, e as informações 
  alimentada pela base de dados do banco de dados Mysql.
  
-🚀 Tecnologias:
-# PHP/Laravel
-# MySql
+### 🚀 Tecnologias:
+PHP/Laravel
+ MySql
 
 ![Imagem1](https://github.com/devronildo/Blog/blob/master/img1.png)
 ![Imagem2](https://github.com/devronildo/Blog/blob/master/img2.png)
