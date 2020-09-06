@@ -12,7 +12,8 @@
  alimentada pela base de dados do banco de dados Mysql.
  
 ### 🚀 Tecnologias:
-PHP/Laravel
+ PHP/Laravel
+ 
  MySql
 
 ![Imagem1](https://github.com/devronildo/Blog/blob/master/img1.png)
